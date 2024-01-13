@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
-<h3 align="center">Experienced Software Engineer,transforming concepts into compelling digital experiences.</h3>
+<h3 align="center">Experienced Software Engineer, transforming concepts into compelling digital experiences.</h3>
 
 - 🔭 I’m currently working on **different Frontend Projects**
 
